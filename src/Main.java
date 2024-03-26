@@ -165,7 +165,6 @@ public class Main {
         System.out.println("Dalyba: " + divdBgDc);
         System.out.println();
 
-        ///.round(MathContext(2,RoundingMode.HALF_UP));
 
         sumBgDc = sumBgDc.round(new MathContext(2,RoundingMode.HALF_UP));
         System.out.println("Suma: " + sumBgDc);
